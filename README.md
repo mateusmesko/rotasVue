@@ -1,6 +1,4 @@
 # rotas-exercicios
-  
-  
 ## Project setup
 ```
 npm install
